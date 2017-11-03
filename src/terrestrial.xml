@@ -2531,4 +2531,12 @@
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" plp_id="1" system="1" />
 		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" plp_id="1" system="0" />
 	</terrestrial>
+	<terrestrial name="Sweden, Stockholm Nacka (Europe DVB-T/T2)" flags="5" countrycode="SWE">
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" plp_id="1" system="0" />
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" plp_id="1" system="0" />
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" plp_id="1" system="0" />
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" plp_id="1" system="1" />
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" plp_id="1" system="1" />
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" plp_id="1" system="1" />
+	</terrestrial>
 </locations>
